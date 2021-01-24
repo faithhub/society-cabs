@@ -1,0 +1,12 @@
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+/public/uploads/*
+.env
+.htaccess
+error.log
+access.log
